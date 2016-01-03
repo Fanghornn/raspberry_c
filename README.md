@@ -2,4 +2,4 @@
 
 Having fun with the raspberry pi
 
-![raspberry_gif](http://i.imgur.com/jr28xWz.gifv)
+![raspberry_gif](http://i.imgur.com/jr28xWz.gif)
